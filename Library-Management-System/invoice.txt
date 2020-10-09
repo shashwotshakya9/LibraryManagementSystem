@@ -1,0 +1,13 @@
+name of the borrower: hardik--------------------------------------invoice of library----------------------------------------			2019-01-24 11:33:44.077345
+	You have borrowed 9 book of Muna Madan
+ 	Total book borrowed:9
+ 	Rate of 1 book($):2
+ 	Total amount:18$
+------------------------lending duration is 10 days--------------------------
+-----------------------------VISIT-AGAIN--------------------------------------name of the borrower: hardik--------------------------------------invoice of library----------------------------------------			2019-01-24 11:36:07.565934
+	You have borrowed 5 book of Brokenwing
+ 	Total book borrowed:5
+ 	Rate of 1 book($):1
+ 	Total amount:5$
+------------------------lending duration is 10 days--------------------------
+-----------------------------VISIT-AGAIN--------------------------------------
